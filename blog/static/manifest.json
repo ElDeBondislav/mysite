@@ -1,0 +1,522 @@
+{
+    "code": "000000",
+    "message": null,
+    "messageDetail": null,
+    "data": [
+        {
+            "adv": {
+                "advNo": "11388866172540604416","clas
+sify":"mass","tradeType":"SELL","asset":"USDT","fiatUnit":"UAH","advStatus":null,"priceType":null,"priceF
+loatingRatio":null,"rateFloatingRatio":null,"currencyRate":null,"price":"38.93","initAmount":null,"surplu
+sAmount":"1000.00","amountAfterEditing":null,"maxSingleTransAmount":"50000.00","minSingleTransAmount":"29
+50.00","buyerKycLimit":null,"buyerRegDaysLimit":null,"buyerBtcPositionLimit":null,"remarks":null,"autoRep
+lyMsg":"","payTimeLimit":null,"tradeMethods":[{"payId":null,"payMethodId":"","payType":null,"payAccount":
+null,
+                "payBank": null,
+                "paySubBank": null,
+                "identifier": "RaiffeisenBankAval",
+                "iconUrlColor": null,"tradeMethodN
+ame":"Raiffeisen Bank Aval","tradeMethodShortName":null,"tradeMethodBgColor":"#FDF051"}],"userTradeCountF
+ilterTime":null,"userBuyTradeCountMin":null,"userBuyTradeCountMax":null,"userSellTradeCountMin":null,"use
+rSellTradeCountMax":null,"userAllTradeCountMin":null,"userAllTradeCountMax":null,"userTradeCompleteRateFi
+lterTime":null,"userTradeCompleteCountMin":null,"userTradeCompleteRateMin":null,"userTradeVolumeFilterTim
+e":null,"userTradeType":null,"userTradeVolumeMin":null,"userTradeVolumeMax":null,"userTradeVolumeAsset":n
+ull,
+                "createTime": null,
+                "advUpdateTime": null,
+                "fiatVo": null,
+                "assetVo": null,
+                "advVisibleRet": null,
+                "assetLogo": null,
+                "assetScale": 2,
+                "fiatScale": 2,
+                "priceScale": 2,
+                "fiatSymbol": "?",
+                "isTradable": true,"dynamicMaxSingleTran
+sAmount":"38891.10","minSingleTransQuantity":"75.77","maxSingleTransQuantity":"1284.35","dynamicMaxSingle
+TransQuantity":"999.00","tradableQuantity":"999.00","commissionRate":"0.00100000","tradeMethodCommissionR
+ates":[],"launchCountry":null,"abnormalStatusList":null},"advertiser":{"userNo":"seb638dd475e439aba41c5c6
+60b00c052","realName":null,"nickName":"UaObmin","margin":null,"marginUnit":null,"orderCount":null,"monthO
+rderCount":613,"monthFinishRate":0.967,"advConfirmTime":null,"email":null,"registrationTime":null,"mobile
+":null,"userType":"user","tagIconUrls":[],"userGrade":2,"userIdentity":"","proMerchant":null,"isBlocked":
+null
+            }
+        },
+        {
+            "adv": {
+                "advNo": "11388920338150596608",
+                "classify": "mass",
+                "tradeType": "SELL",
+                "asset": "USDT","fiatUn
+it":"UAH","advStatus":null,"priceType":null,"priceFloatingRatio":null,"rateFloatingRatio":null,"currencyR
+ate":null,"price":"38.94","initAmount":null,"surplusAmount":"2868.99","amountAfterEditing":null,"maxSingl
+eTransAmount":"131738.00","minSingleTransAmount":"1000.00","buyerKycLimit":null,"buyerRegDaysLimit":null,
+"buyerBtcPositionLimit": null,
+                "remarks": null,
+                "autoReplyMsg": "",
+                "payTimeLimit": null,
+                "tradeMethods": [
+                    {"payId
+":null,"payMethodId":"","payType":null,"payAccount":null,"payBank":null,"paySubBank":null,"identifier":"M
+onobank","iconUrlColor":null,"tradeMethodName":"Monobank","tradeMethodShortName":"Monobank","tradeMethodB
+gColor":"#664CDB"},{"payId":null,"payMethodId":"","payType":null,"payAccount":null,"payBank":null,"paySub
+Bank":null,"identifier":"RaiffeisenBankAval","iconUrlColor":null,"tradeMethodName":"Raiffeisen Bank Aval",
+                        "tradeMethodShortName": null,
+                        "tradeMethodBgColor": "#FDF051"
+                    }
+                ],
+                "userTradeCountFilterTime": null,"userBuyTra
+deCountMin":null,"userBuyTradeCountMax":null,"userSellTradeCountMin":null,"userSellTradeCountMax":null,"u
+serAllTradeCountMin":null,"userAllTradeCountMax":null,"userTradeCompleteRateFilterTime":null,"userTradeCo
+mpleteCountMin":null,"userTradeCompleteRateMin":null,"userTradeVolumeFilterTime":null,"userTradeType":nul
+l,
+                "userTradeVolumeMin": null,
+                "userTradeVolumeMax": null,
+                "userTradeVolumeAsset": null,
+                "createTime": null,"advU
+pdateTime":null,"fiatVo":null,"assetVo":null,"advVisibleRet":null,"assetLogo":null,"assetScale":2,"fiatSc
+ale":2,"priceScale":2,"fiatSymbol":"?","isTradable":true,"dynamicMaxSingleTransAmount":"111606.86","minSi
+ngleTransQuantity":"25.68","maxSingleTransQuantity":"3383.10","dynamicMaxSingleTransQuantity":"2866.12","
+tradableQuantity":"2866.12","commissionRate":"0.00100000","tradeMethodCommissionRates":[],"launchCountry": null,
+                "abnormalStatusList": null
+            },
+            "advertiser": {
+                "userNo": "s09164487e22b31f989ab400c44ee1d59",
+                "realName":nu
+ll,
+                "nickName": "Murrrik",
+                "margin": null,
+                "marginUnit": null,
+                "orderCount": null,
+                "monthOrderCount": 32,"monthFini
+shRate":1.000,"advConfirmTime":null,"email":null,"registrationTime":null,"mobile":null,"userType":"user",
+"tagIconUrls": [],
+                "userGrade": 2,
+                "userIdentity": "",
+                "proMerchant": null,
+                "isBlocked": null
+            }
+        },
+        {
+            "adv": {
+                "advNo":"1
+1370087281774411776","classify":"mass","tradeType":"SELL","asset":"USDT","fiatUnit":"UAH","advStatus":nul
+l,
+                "priceType": null,
+                "priceFloatingRatio": null,
+                "rateFloatingRatio": null,
+                "currencyRate": null,
+                "price": "38.95",
+                "initAmount": null,
+                "surplusAmount": "250.00",
+                "amountAfterEditing": null,
+                "maxSingleTransAmount": "7788.00","m
+inSingleTransAmount":"500.00","buyerKycLimit":null,"buyerRegDaysLimit":null,"buyerBtcPositionLimit":null,
+"remarks": null,
+                "autoReplyMsg": "",
+                "payTimeLimit": null,
+                "tradeMethods": [
+                    {
+                        "payId": null,
+                        "payMethodId": "","payT
+ype":null,"payAccount":null,"payBank":null,"paySubBank":null,"identifier":"PUMBBank","iconUrlColor":null,
+"tradeMethodName": "PUMB",
+                        "tradeMethodShortName": "PUMB",
+                        "tradeMethodBgColor": "#D13239"
+                    },
+                    {
+                        "payId": null,"pay
+MethodId":"","payType":null,"payAccount":null,"payBank":null,"paySubBank":null,"identifier":"PrivatBank",
+"iconUrlColor": null,
+                        "tradeMethodName": "Privat Bank (Universal Card)",
+                        "tradeMethodShortName": "Privat Bank",
+                        "tradeMethodBgColor": "#75AF26"
+                    },
+                    {
+                        "payId": null,
+                        "payMethodId": "",
+                        "payType": null,
+                        "payAccount": null,"payBank
+":null,"paySubBank":null,"identifier":"RaiffeisenBankAval","iconUrlColor":null,"tradeMethodName":"Raiffei
+sen Bank Aval","tradeMethodShortName":null,"tradeMethodBgColor":"#FDF051"},{"payId":null,"payMethodId":"",
+                        "payType": null,
+                        "payAccount": null,
+                        "payBank": null,
+                        "paySubBank": null,
+                        "identifier": "Monobank",
+                        "iconUrlColor": null,
+                        "tradeMethodName": "Monobank",
+                        "tradeMethodShortName": "Monobank",
+                        "tradeMethodBgColor": "#664CDB"
+                    }
+                ],"us
+erTradeCountFilterTime":null,"userBuyTradeCountMin":null,"userBuyTradeCountMax":null,"userSellTradeCountM
+in":null,"userSellTradeCountMax":null,"userAllTradeCountMin":null,"userAllTradeCountMax":null,"userTradeC
+ompleteRateFilterTime":null,"userTradeCompleteCountMin":null,"userTradeCompleteRateMin":null,"userTradeVo
+lumeFilterTime":null,"userTradeType":null,"userTradeVolumeMin":null,"userTradeVolumeMax":null,"userTradeV
+olumeAsset":null,"createTime":null,"advUpdateTime":null,"fiatVo":null,"assetVo":null,"advVisibleRet":null,
+                "assetLogo": null,
+                "assetScale": 2,
+                "fiatScale": 2,
+                "priceScale": 2,
+                "fiatSymbol": "?",
+                "isTradable": true,"dynamic
+MaxSingleTransAmount":"7788.00","minSingleTransQuantity":"12.83","maxSingleTransQuantity":"199.94","dynam
+icMaxSingleTransQuantity":"199.94","tradableQuantity":"249.75","commissionRate":"0.00100000","tradeMethod
+CommissionRates":[],"launchCountry":null,"abnormalStatusList":null},"advertiser":{"userNo":"s6d4bf4a079c4
+3f6f8de3b7c46a518288","realName":null,"nickName":"Olha77","margin":null,"marginUnit":null,"orderCount":nu
+ll,
+                "monthOrderCount": 486,
+                "monthFinishRate": 1.000,
+                "advConfirmTime": null,
+                "email": null,
+                "registrationTime":nu
+ll,
+                "mobile": null,
+                "userType": "user",
+                "tagIconUrls": [],
+                "userGrade": 2,
+                "userIdentity": "",
+                "proMerchant": null,"i
+sBlocked":null}},{"adv":{"advNo":"11377574911210000384","classify":"mass","tradeType":"SELL","asset":"USD
+T","fiatUnit":"UAH","advStatus":null,"priceType":null,"priceFloatingRatio":null,"rateFloatingRatio":null,
+"currencyRate": null,
+                "price": "38.97",
+                "initAmount": null,
+                "surplusAmount": "56.45",
+                "amountAfterEditing": null,"
+maxSingleTransAmount":"41000.00","minSingleTransAmount":"1000.00","buyerKycLimit":null,"buyerRegDaysLimit
+":null,"buyerBtcPositionLimit":null,"remarks":null,"autoReplyMsg":"","payTimeLimit":null,"tradeMethods":[
+{
+                    "payId": null,
+                    "payMethodId": "",
+                    "payType": null,
+                    "payAccount": null,
+                    "payBank": null,
+                    "paySubBank": null,"identif
+ier":"izibank","iconUrlColor":null,"tradeMethodName":"Izibank","tradeMethodShortName":null,"tradeMethodBg
+Color":"#EB522A"},{"payId":null,"payMethodId":"","payType":null,"payAccount":null,"payBank":null,"paySubB
+ank":null,"identifier":"Ukrsibbank","iconUrlColor":null,"tradeMethodName":"Ukrsibbank","tradeMethodShortN
+ame":null,"tradeMethodBgColor":"#009B7B"},{"payId":null,"payMethodId":"","payType":null,"payAccount":null,
+                    "payBank": null,
+                    "paySubBank": null,
+                    "identifier": "CreditAgricole",
+                    "iconUrlColor": null,
+                    "tradeMethodName":"Cr
+edit Agricole","tradeMethodShortName":"Credit Agricole","tradeMethodBgColor":"#007D8F"},{"payId":null,"pa
+yMethodId":"","payType":null,"payAccount":null,"payBank":null,"paySubBank":null,"identifier":"OTPBank","i
+conUrlColor":null,"tradeMethodName":"OTP Bank","tradeMethodShortName":null,"tradeMethodBgColor":"#52AE30"
+                },
+                {
+                    "payId": null,
+                    "payMethodId": "",
+                    "payType": null,
+                    "payAccount": null,
+                    "payBank": null,
+                    "paySubBank": null,"ident
+ifier":"RaiffeisenBankAval","iconUrlColor":null,"tradeMethodName":"Raiffeisen Bank Aval","tradeMethodShor
+tName":null,"tradeMethodBgColor":"#FDF051"}],"userTradeCountFilterTime":null,"userBuyTradeCountMin":null,
+"userBuyTradeCountMax": null,
+                    "userSellTradeCountMin": null,
+                    "userSellTradeCountMax": null,"userAllTradeCountM
+in":null,"userAllTradeCountMax":null,"userTradeCompleteRateFilterTime":null,"userTradeCompleteCountMin":n
+ull,
+                    "userTradeCompleteRateMin": null,
+                    "userTradeVolumeFilterTime": null,
+                    "userTradeType": null,"userTradeVolum
+eMin":null,"userTradeVolumeMax":null,"userTradeVolumeAsset":null,"createTime":null,"advUpdateTime":null,"
+fiatVo":null,"assetVo":null,"advVisibleRet":null,"assetLogo":null,"assetScale":2,"fiatScale":2,"priceScal
+e":2,"fiatSymbol":"?","isTradable":true,"dynamicMaxSingleTransAmount":"2197.65","minSingleTransQuantity":
+"25.66",
+                    "maxSingleTransQuantity": "1052.09",
+                    "dynamicMaxSingleTransQuantity": "56.39",
+                    "tradableQuantity":"56
+.39","commissionRate":"0.00100000","tradeMethodCommissionRates":[],"launchCountry":null,"abnormalStatusLi
+st":null},"advertiser":{"userNo":"s3670093dc920331996810cc265f03a0e","realName":null,"nickName":"romashka
+_vova","margin":null,"marginUnit":null,"orderCount":null,"monthOrderCount":177,"monthFinishRate":0.978,"a
+dvConfirmTime":null,"email":null,"registrationTime":null,"mobile":null,"userType":"user","tagIconUrls":[],
+                    "userGrade": 2,
+                    "userIdentity": "",
+                    "proMerchant": null,
+                    "isBlocked": null
+                }
+            },
+            {
+                "adv": {
+                    "advNo":"11387360182688440
+320","classify":"mass","tradeType":"SELL","asset":"USDT","fiatUnit":"UAH","advStatus":null,"priceType":nu
+ll,
+                    "priceFloatingRatio": null,
+                    "rateFloatingRatio": null,
+                    "currencyRate": null,
+                    "price": "39.00",
+                    "initAmount":nu
+ll,
+                    "surplusAmount": "300.00",
+                    "amountAfterEditing": null,
+                    "maxSingleTransAmount": "50000.00","minSingleTransAm
+ount":"5000.00","buyerKycLimit":null,"buyerRegDaysLimit":null,"buyerBtcPositionLimit":null,"remarks":null,
+                    "autoReplyMsg": "",
+                    "payTimeLimit": null,
+                    "tradeMethods": [
+                        {
+                            "payId": null,
+                            "payMethodId": "",
+                            "payType": null,"pay
+Account":null,"payBank":null,"paySubBank":null,"identifier":"RaiffeisenBankAval","iconUrlColor":null,"tra
+deMethodName":"Raiffeisen Bank Aval","tradeMethodShortName":null,"tradeMethodBgColor":"#FDF051"},{"payId": null,
+                            "payMethodId": "",
+                            "payType": null,
+                            "payAccount": null,
+                            "payBank": null,
+                            "paySubBank": null,
+                            "identifier":"Mo
+nobank","iconUrlColor":null,"tradeMethodName":"Monobank","tradeMethodShortName":"Monobank","tradeMethodBg
+Color":"#664CDB"}],"userTradeCountFilterTime":null,"userBuyTradeCountMin":null,"userBuyTradeCountMax":nul
+l,
+                            "userSellTradeCountMin": null,
+                            "userSellTradeCountMax": null,
+                            "userAllTradeCountMin": null,"userAllTradeCoun
+tMax":null,"userTradeCompleteRateFilterTime":null,"userTradeCompleteCountMin":null,"userTradeCompleteRate
+Min":null,"userTradeVolumeFilterTime":null,"userTradeType":null,"userTradeVolumeMin":null,"userTradeVolum
+eMax":null,"userTradeVolumeAsset":null,"createTime":null,"advUpdateTime":null,"fiatVo":null,"assetVo":nul
+l,
+                            "advVisibleRet": null,
+                            "assetLogo": null,
+                            "assetScale": 2,
+                            "fiatScale": 2,
+                            "priceScale": 2,
+                            "fiatSymbol": "?","isT
+radable":true,"dynamicMaxSingleTransAmount":"11688.31","minSingleTransQuantity":"128.20","maxSingleTransQ
+uantity":"1282.05","dynamicMaxSingleTransQuantity":"299.70","tradableQuantity":"299.70","commissionRate":
+"0.00100000",
+                            "tradeMethodCommissionRates": [],
+                            "launchCountry": null,
+                            "abnormalStatusList": null
+                        },
+                        "advertiser": {
+                            "userNo": "s21bf78b529913e278ed8c6a73c84caf5",
+                            "realName": null,
+                            "nickName": "dotfoobar",
+                            "margin": null,"marg
+inUnit":null,"orderCount":null,"monthOrderCount":37,"monthFinishRate":1.000,"advConfirmTime":null,"email": null,
+                            "registrationTime": null,
+                            "mobile": null,
+                            "userType": "user",
+                            "tagIconUrls": [],
+                            "userGrade": 2,"userIdentit
+y":"","proMerchant":null,"isBlocked":null}},{"adv":{"advNo":"11388818115533361152","classify":"profession
+","tradeType":"SELL","asset":"USDT","fiatUnit":"UAH","advStatus":null,"priceType":null,"priceFloatingRati
+o":null,"rateFloatingRatio":null,"currencyRate":null,"price":"39.00","initAmount":null,"surplusAmount":"1
+517.34","amountAfterEditing":null,"maxSingleTransAmount":"499984.00","minSingleTransAmount":"50000.00","b
+uyerKycLimit":null,"buyerRegDaysLimit":null,"buyerBtcPositionLimit":null,"remarks":null,"autoReplyMsg":"",
+                            "payTimeLimit": null,
+                            "tradeMethods": [
+                                {
+                                    "payId": null,
+                                    "payMethodId": "",
+                                    "payType": null,
+                                    "payAccount": null,"pay
+Bank":null,"paySubBank":null,"identifier":"PrivatBank","iconUrlColor":null,"tradeMethodName":"Privat Bank
+ (Universal Card)","tradeMethodShortName":"Privat Bank","tradeMethodBgColor":"#75AF26"},{"payId":null,"pa
+yMethodId":"","payType":null,"payAccount":null,"payBank":null,"paySubBank":null,"identifier":"RaiffeisenB
+ankAval","iconUrlColor":null,"tradeMethodName":"Raiffeisen Bank Aval","tradeMethodShortName":null,"tradeM
+ethodBgColor":"#FDF051"}],"userTradeCountFilterTime":null,"userBuyTradeCountMin":null,"userBuyTradeCountM
+ax":null,"userSellTradeCountMin":null,"userSellTradeCountMax":null,"userAllTradeCountMin":null,"userAllTr
+adeCountMax":null,"userTradeCompleteRateFilterTime":null,"userTradeCompleteCountMin":null,"userTradeCompl
+eteRateMin":null,"userTradeVolumeFilterTime":null,"userTradeType":null,"userTradeVolumeMin":null,"userTra
+deVolumeMax":null,"userTradeVolumeAsset":null,"createTime":null,"advUpdateTime":null,"fiatVo":null,"asset
+Vo":null,"advVisibleRet":null,"assetLogo":null,"assetScale":2,"fiatScale":2,"priceScale":2,"fiatSymbol":"
+?","isTradable":true,"dynamicMaxSingleTransAmount":"59134.86","minSingleTransQuantity":"1282.05","maxSing
+leTransQuantity":"12820.10","dynamicMaxSingleTransQuantity":"1516.27","tradableQuantity":"1516.27","commi
+ssionRate":"0.00070000","tradeMethodCommissionRates":[],"launchCountry":null,"abnormalStatusList":null},"
+advertiser":{"userNo":"s24b0b80224443ddbbafd8ac42b7ebdbc","realName":null,"nickName":"Mark exchange","mar
+gin":null,"marginUnit":null,"orderCount":null,"monthOrderCount":732,"monthFinishRate":0.988,"advConfirmTi
+me":null,"email":null,"registrationTime":null,"mobile":null,"userType":"merchant","tagIconUrls":[],"userG
+rade":3,"userIdentity":"MASS_MERCHANT","proMerchant":null,"isBlocked":null}},{"adv":{"advNo":"11388927753
+310154752","classify":"mass","tradeType":"SELL","asset":"USDT","fiatUnit":"UAH","advStatus":null,"priceTy
+pe":null,"priceFloatingRatio":null,"rateFloatingRatio":null,"currencyRate":null,"price":"39.00","initAmou
+nt":null,"surplusAmount":"396.66","amountAfterEditing":null,"maxSingleTransAmount":"15469.00","minSingleT
+ransAmount":"15440.00","buyerKycLimit":null,"buyerRegDaysLimit":null,"buyerBtcPositionLimit":null,"remark
+s":null,"autoReplyMsg":"","payTimeLimit":null,"tradeMethods":[{"payId":null,"payMethodId":"","payType":nu
+ll,
+                                    "payAccount": null,
+                                    "payBank": null,
+                                    "paySubBank": null,
+                                    "identifier": "RaiffeisenBankAval",
+                                    "iconUrlColor":nu
+ll,
+                                    "tradeMethodName": "Raiffeisen Bank Aval",
+                                    "tradeMethodShortName": null,
+                                    "tradeMethodBgColor": "#FDF051"
+                                },
+                                {
+                                    "payId": null,
+                                    "payMethodId": "",
+                                    "payType": null,
+                                    "payAccount": null,
+                                    "payBank": null,
+                                    "paySubBank": null,"identifi
+er":"Oschadbank","iconUrlColor":null,"tradeMethodName":"Oschadbank","tradeMethodShortName":"Oschadbank","
+tradeMethodBgColor":"#008348"},{"payId":null,"payMethodId":"","payType":null,"payAccount":null,"payBank":
+null,
+                                    "paySubBank": null,
+                                    "identifier": "PrivatBank",
+                                    "iconUrlColor": null,
+                                    "tradeMethodName":"Privat Bank (Univ
+ersal Card)","tradeMethodShortName":"Privat Bank","tradeMethodBgColor":"#75AF26"},{"payId":null,"payMetho
+dId":"","payType":null,"payAccount":null,"payBank":null,"paySubBank":null,"identifier":"Monobank","iconUr
+lColor":null,"tradeMethodName":"Monobank","tradeMethodShortName":"Monobank","tradeMethodBgColor":"#664CDB
+"}],"userTradeCountFilterTime":null,"userBuyTradeCountMin":null,"userBuyTradeCountMax":null,"userSellTrad
+eCountMin":null,"userSellTradeCountMax":null,"userAllTradeCountMin":null,"userAllTradeCountMax":null,"use
+rTradeCompleteRateFilterTime":null,"userTradeCompleteCountMin":null,"userTradeCompleteRateMin":null,"user
+TradeVolumeFilterTime":null,"userTradeType":null,"userTradeVolumeMin":null,"userTradeVolumeMax":null,"use
+rTradeVolumeAsset":null,"createTime":null,"advUpdateTime":null,"fiatVo":null,"assetVo":null,"advVisibleRe
+t":null,"assetLogo":null,"assetScale":2,"fiatScale":2,"priceScale":2,"fiatSymbol":"?","isTradable":true,"
+dynamicMaxSingleTransAmount":"15454.28","minSingleTransQuantity":"395.89","maxSingleTransQuantity":"396.6
+4","dynamicMaxSingleTransQuantity":"396.26","tradableQuantity":"396.26","commissionRate":"0.00100000","tr
+adeMethodCommissionRates":[],"launchCountry":null,"abnormalStatusList":null},"advertiser":{"userNo":"sa27
+30b23e7673b32a1c2fc0c753c3edc","realName":null,"nickName":"romanioCorn","margin":null,"marginUnit":null,"
+orderCount":null,"monthOrderCount":12,"monthFinishRate":1.000,"advConfirmTime":null,"email":null,"registr
+ationTime":null,"mobile":null,"userType":"user","tagIconUrls":[],"userGrade":2,"userIdentity":"","proMerc
+hant":null,"isBlocked":null}},{"adv":{"advNo":"11383551883308687360","classify":"mass","tradeType":"SELL",
+                                    "asset": "USDT",
+                                    "fiatUnit": "UAH",
+                                    "advStatus": null,
+                                    "priceType": null,
+                                    "priceFloatingRatio": null,"rateFloatin
+gRatio":null,"currencyRate":null,"price":"39.03","initAmount":null,"surplusAmount":"356.47","amountAfterE
+diting":null,"maxSingleTransAmount":"34367.00","minSingleTransAmount":"400.00","buyerKycLimit":null,"buye
+rRegDaysLimit":null,"buyerBtcPositionLimit":null,"remarks":null,"autoReplyMsg":"","payTimeLimit":null,"tr
+adeMethods":[{"payId":null,"payMethodId":"","payType":null,"payAccount":null,"payBank":null,"paySubBank":
+null,
+                                    "identifier": "PrivatBank",
+                                    "iconUrlColor": null,
+                                    "tradeMethodName": "Privat Bank (Universal Card)","trad
+eMethodShortName":"Privat Bank","tradeMethodBgColor":"#75AF26"},{"payId":null,"payMethodId":"","payType":
+null,
+                                    "payAccount": null,
+                                    "payBank": null,
+                                    "paySubBank": null,
+                                    "identifier": "Oschadbank",
+                                    "iconUrlColor": null,"tr
+adeMethodName":"Oschadbank","tradeMethodShortName":"Oschadbank","tradeMethodBgColor":"#008348"},{"payId":
+null,
+                                    "payMethodId": "",
+                                    "payType": null,
+                                    "payAccount": null,
+                                    "payBank": null,
+                                    "paySubBank": null,
+                                    "identifier":"Ukr
+sibbank","iconUrlColor":null,"tradeMethodName":"Ukrsibbank","tradeMethodShortName":null,"tradeMethodBgCol
+or":"#009B7B"},{"payId":null,"payMethodId":"","payType":null,"payAccount":null,"payBank":null,"paySubBank
+":null,"identifier":"RaiffeisenBankAval","iconUrlColor":null,"tradeMethodName":"Raiffeisen Bank Aval","tr
+adeMethodShortName":null,"tradeMethodBgColor":"#FDF051"}],"userTradeCountFilterTime":null,"userBuyTradeCo
+untMin":null,"userBuyTradeCountMax":null,"userSellTradeCountMin":null,"userSellTradeCountMax":null,"userA
+llTradeCountMin":null,"userAllTradeCountMax":null,"userTradeCompleteRateFilterTime":null,"userTradeComple
+teCountMin":null,"userTradeCompleteRateMin":null,"userTradeVolumeFilterTime":null,"userTradeType":null,"u
+serTradeVolumeMin":null,"userTradeVolumeMax":null,"userTradeVolumeAsset":null,"createTime":null,"advUpdat
+eTime":null,"fiatVo":null,"assetVo":null,"advVisibleRet":null,"assetLogo":null,"assetScale":2,"fiatScale": 2,
+                                    "priceScale": 2,
+                                    "fiatSymbol": "?",
+                                    "isTradable": true,
+                                    "dynamicMaxSingleTransAmount": "13899.12","minSingleT
+ransQuantity":"10.24","maxSingleTransQuantity":"880.52","dynamicMaxSingleTransQuantity":"356.11","tradabl
+eQuantity":"356.11","commissionRate":"0.00100000","tradeMethodCommissionRates":[],"launchCountry":null,"a
+bnormalStatusList":null},"advertiser":{"userNo":"sc70c2fa0026334ac9ea38501be4e7de2","realName":null,"nick
+Name":"Gordeichh","margin":null,"marginUnit":null,"orderCount":null,"monthOrderCount":156,"monthFinishRat
+e":1.000,"advConfirmTime":null,"email":null,"registrationTime":null,"mobile":null,"userType":"user","tagI
+conUrls":[],"userGrade":2,"userIdentity":"","proMerchant":null,"isBlocked":null}},{"adv":{"advNo":"113621
+27688525971456","classify":"mass","tradeType":"SELL","asset":"USDT","fiatUnit":"UAH","advStatus":null,"pr
+iceType":null,"priceFloatingRatio":null,"rateFloatingRatio":null,"currencyRate":null,"price":"39.05","ini
+tAmount":null,"surplusAmount":"126.01","amountAfterEditing":null,"maxSingleTransAmount":"50000.00","minSi
+ngleTransAmount":"4900.00","buyerKycLimit":null,"buyerRegDaysLimit":null,"buyerBtcPositionLimit":null,"re
+marks":null,"autoReplyMsg":"","payTimeLimit":null,"tradeMethods":[{"payId":null,"payMethodId":"","payType
+":null,"payAccount":null,"payBank":null,"paySubBank":null,"identifier":"RaiffeisenBankAval","iconUrlColor
+":null,"tradeMethodName":"Raiffeisen Bank Aval","tradeMethodShortName":null,"tradeMethodBgColor":"#FDF051
+"}],"userTradeCountFilterTime":null,"userBuyTradeCountMin":null,"userBuyTradeCountMax":null,"userSellTrad
+eCountMin":null,"userSellTradeCountMax":null,"userAllTradeCountMin":null,"userAllTradeCountMax":null,"use
+rTradeCompleteRateFilterTime":null,"userTradeCompleteCountMin":null,"userTradeCompleteRateMin":null,"user
+TradeVolumeFilterTime":null,"userTradeType":null,"userTradeVolumeMin":null,"userTradeVolumeMax":null,"use
+rTradeVolumeAsset":null,"createTime":null,"advUpdateTime":null,"fiatVo":null,"assetVo":null,"advVisibleRe
+t":null,"assetLogo":null,"assetScale":2,"fiatScale":2,"priceScale":2,"fiatSymbol":"?","isTradable":true,"
+dynamicMaxSingleTransAmount":"4915.77","minSingleTransQuantity":"125.48","maxSingleTransQuantity":"1280.4
+0","dynamicMaxSingleTransQuantity":"125.88","tradableQuantity":"125.88","commissionRate":"0.00100000","tr
+adeMethodCommissionRates":[],"launchCountry":null,"abnormalStatusList":null},"advertiser":{"userNo":"sc7e
+9533730d836c2a7b9f7cf07dde8a8","realName":null,"nickName":"vasilkit1234","margin":null,"marginUnit":null,
+"orderCount": null,
+                                    "monthOrderCount": 12,
+                                    "monthFinishRate": 0.924,
+                                    "advConfirmTime": null,
+                                    "email": null,"regist
+rationTime":null,"mobile":null,"userType":"user","tagIconUrls":[],"userGrade":2,"userIdentity":"","proMer
+chant":null,"isBlocked":null}},{"adv":{"advNo":"11388181180114300928","classify":"mass","tradeType":"SELL
+","asset":"USDT","fiatUnit":"UAH","advStatus":null,"priceType":null,"priceFloatingRatio":null,"rateFloati
+ngRatio":null,"currencyRate":null,"price":"39.05","initAmount":null,"surplusAmount":"312.50","amountAfter
+Editing":null,"maxSingleTransAmount":"50000.00","minSingleTransAmount":"500.00","buyerKycLimit":null,"buy
+erRegDaysLimit":null,"buyerBtcPositionLimit":null,"remarks":null,"autoReplyMsg":"","payTimeLimit":null,"t
+radeMethods":[{"payId":null,"payMethodId":"","payType":null,"payAccount":null,"payBank":null,"paySubBank": null,
+                                    "identifier": "Ukrsibbank",
+                                    "iconUrlColor": null,
+                                    "tradeMethodName": "Ukrsibbank",
+                                    "tradeMethodShortName": null,
+                                    "tradeMethodBgColor": "#009B7B"
+                                },
+                                {
+                                    "payId": null,
+                                    "payMethodId": "",
+                                    "payType": null,
+                                    "payAccount": null,"pa
+yBank":null,"paySubBank":null,"identifier":"RaiffeisenBankRussia","iconUrlColor":null,"tradeMethodName":"
+Raiffeisenbank","tradeMethodShortName":"Raiffeisen","tradeMethodBgColor":"#D89F00"},{"payId":null,"payMet
+hodId":"","payType":null,"payAccount":null,"payBank":null,"paySubBank":null,"identifier":"Oschadbank","ic
+onUrlColor":null,"tradeMethodName":"Oschadbank","tradeMethodShortName":"Oschadbank","tradeMethodBgColor":
+"#008348"
+                                },
+                                {
+                                    "payId": null,
+                                    "payMethodId": "",
+                                    "payType": null,
+                                    "payAccount": null,
+                                    "payBank": null,
+                                    "paySubBank":nu
+ll,
+                                    "identifier": "izibank",
+                                    "iconUrlColor": null,
+                                    "tradeMethodName": "Izibank",
+                                    "tradeMethodShortName": null,"tr
+adeMethodBgColor":"#EB522A"},{"payId":null,"payMethodId":"","payType":null,"payAccount":null,"payBank":nu
+ll,
+                                    "paySubBank": null,
+                                    "identifier": "RaiffeisenBankAval",
+                                    "iconUrlColor": null,
+                                    "tradeMethodName":"Raiffeisen
+Bank Aval","tradeMethodShortName":null,"tradeMethodBgColor":"#FDF051"}],"userTradeCountFilterTime":null,"
+userBuyTradeCountMin":null,"userBuyTradeCountMax":null,"userSellTradeCountMin":null,"userSellTradeCountMa
+x":null,"userAllTradeCountMin":null,"userAllTradeCountMax":null,"userTradeCompleteRateFilterTime":null,"u
+serTradeCompleteCountMin":null,"userTradeCompleteRateMin":null,"userTradeVolumeFilterTime":null,"userTrad
+eType":null,"userTradeVolumeMin":null,"userTradeVolumeMax":null,"userTradeVolumeAsset":null,"createTime":
+null,
+                                    "advUpdateTime": null,
+                                    "fiatVo": null,
+                                    "assetVo": null,
+                                    "advVisibleRet": null,
+                                    "assetLogo": null,
+                                    "assetScale": 2,
+                                    "fiatScale": 2,
+                                    "priceScale": 2,
+                                    "fiatSymbol": "?",
+                                    "isTradable": true,
+                                    "dynamicMaxSingleTransAmount":"12190.9
+3","minSingleTransQuantity":"12.80","maxSingleTransQuantity":"1280.40","dynamicMaxSingleTransQuantity":"3
+12.18","tradableQuantity":"312.18","commissionRate":"0.00100000","tradeMethodCommissionRates":[],"launchC
+ountry":null,"abnormalStatusList":null},"advertiser":{"userNo":"sf3290355a0a0386fb451b1fd4b17bcf6","realN
+ame":null,"nickName":"-nobody-","margin":null,"marginUnit":null,"orderCount":null,"monthOrderCount":1205,
+"monthFinishRate": 0.996,
+                                    "advConfirmTime": null,
+                                    "email": null,
+                                    "registrationTime": null,
+                                    "mobile": null,"userTyp
+e":"user","tagIconUrls":[],"userGrade":2,"userIdentity":"","proMerchant":null,"isBlocked":null}}],"total": 45,
+                                    "success": true
+                                }
