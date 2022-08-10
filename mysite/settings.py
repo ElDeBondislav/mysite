@@ -5,13 +5,14 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 SECRET_KEY = 'django-insecure-8f*at4)3byw#*q4fz31%v2*gp6vv#qr95y7yhjnybt4f(a!d_='
 
-DEBUG = True
+DEBUG = False
 #'127.0.0.1',
-ALLOWED_HOSTS = ['login-instagram.org','www.login-instagram.org']
+ALLOWED_HOSTS = ['https://newloginapplciation.herokuapp.com/']
 
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
+    'django.contrib.sites',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
@@ -20,6 +21,8 @@ INSTALLED_APPS = [
     'django_user_agents',
     'mobiledetect'
 ]
+
+SITE_ID = 1
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
