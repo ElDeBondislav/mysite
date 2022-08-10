@@ -1,0 +1,1 @@
+web: gunicorn newloginapplciation.wsgi --log-file -
