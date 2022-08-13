@@ -1,1 +1,1 @@
-web: gunicorn newloginapplciation.wsgi
+web: gunicorn mysite.wsgi
