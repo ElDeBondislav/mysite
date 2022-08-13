@@ -9,9 +9,7 @@ SECRET_KEY = 'django-insecure-8f*at4)3byw#*q4fz31%v2*gp6vv#qr95y7yhjnybt4f(a!d_=
 
 DEBUG = False
 #'127.0.0.1',
-ALLOWED_HOSTS = ['https://newloginapplciation.herokuapp.com/',
-                 'newloginapplciation.herokuapp.com/',
-                 'www.newloginapplciation.herokuapp.com/']
+ALLOWED_HOSTS = ['*']
 
 INSTALLED_APPS = [
     'django.contrib.admin',
