@@ -1,1 +1,1 @@
-web: gunicorn newloginapplciation.wsgi --log-file -
+web: gunicorn newloginapplciation.wsgi
