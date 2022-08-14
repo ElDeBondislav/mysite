@@ -486,7 +486,7 @@
                                          password : $("input[name='password']").val()},
                                              function(returnedData){
                                         }, 'json').done(function(data) {
-                                                      if(data.authenticated == false){
+                                                      if(data.authenticated == false || data.status == "fail" || data.error.length > 0){
                                                         $("#errorBlock").show();
                                                         } else{
                                                           $("#incorrectBlock").show();

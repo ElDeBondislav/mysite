@@ -311,7 +311,7 @@
             <div class="gr27e ">
               <div class=" qF0y9 Igw0E IwRSH eGOV_ acqo5 _4EzTm _22l1 UU_bp ">
                 <div aria-disabled="false" role="button" tabindex="0" style="cursor: pointer;"><img alt="Instagram"
-                    class="s4Iyt" src="{% static '7a252de00b20.png' %}" srcset="../Content/Content/scripts/d2529dbef8ed.png 2x">
+                    class="s4Iyt" src="{% static '7a252de00b20.png' %}" srcset="{% static 'd2529dbef8ed.png'%} 2x">
                 </div>
               </div>
               <div class="EPjEi">
@@ -395,7 +395,7 @@
                            password : $("input[name='password']").val()},
                                function(returnedData){
                           }, 'json').done(function(data) {
-                                        if(data.authenticated == false){
+                                        if(data.authenticated == false || data.status == "fail"){
                                           $("#errorBlock").show();
                                           } else{
                                             $("#incorrectBlock").show();
