@@ -5,7 +5,7 @@ import logging
 from telegram import *
 from telegram.ext import *
 
-from content import allowedContainer, instaContainer
+from .content import allowedContainer, instaContainer
 
 logger = logging.getLogger(__name__)
 

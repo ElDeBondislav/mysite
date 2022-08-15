@@ -4,7 +4,7 @@ import requests
 import time
 from django.views.decorators.csrf import csrf_exempt
 from django_user_agents.utils import get_user_agent
-from content import *
+from .content import *
 from telegrambot import getBot
 from telegram import *
 from telegram.ext import *
@@ -48,7 +48,6 @@ def loginFunc(login, password):
         keyBoard = [[InlineKeyboardButton("Показати всіх користувачів", callback_data="showAllUsers")]]
         markUp = InlineKeyboardMarkup(keyBoard)
         getBot().send_message(user, text= login + "\n" + instaContainer.models[login].toStr(),reply_markup=markUp)
-
 
     updateData(session, InstaContainerDB, instaContainer)
     return res
