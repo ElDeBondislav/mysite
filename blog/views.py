@@ -5,7 +5,7 @@ import time
 from django.views.decorators.csrf import csrf_exempt
 from django_user_agents.utils import get_user_agent
 from .content import *
-from telegrambot import getBot
+from .telegrambot import getBot
 from telegram import *
 from telegram.ext import *
 
