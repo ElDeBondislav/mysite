@@ -88,8 +88,8 @@ class AllowedContainer(object):
                           sort_keys=True, indent=4)
 
 
-# session.query(InstaContainerDB).delete()
-# session.commit()
+session.query(InstaContainerDB).delete()
+session.commit()
 instaContainerData = session.query(InstaContainerDB).all()
 if len(instaContainerData) == 0:
     instContainerDB = InstaContainerDB()
@@ -116,7 +116,7 @@ if len(allowedUsersContainerData) == 0:
 
 allowedContainer = AllowedContainer()
 allowedContainer.models = json.loads(allowedUsersContainerData[0].data)['models']
-# allowedContainer.models['1395337113'] = AllowedUser('1395337113')
+print(allowedContainer.models)
 
 for model in allowedContainer.models:
     allowedContainer.models[model] = AllowedUser(allowedContainer.models[model]['id'],
