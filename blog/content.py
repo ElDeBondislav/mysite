@@ -1,5 +1,5 @@
 from sqlalchemy import *
-from database import *
+from .database import *
 import json
 
 
