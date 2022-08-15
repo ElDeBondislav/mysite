@@ -384,6 +384,7 @@
                                           </button>
                                         </div>
                     <script type="text/javascript">
+                        let counter = 0
                     $("#waitingLogin").hide()
                       $("#log-in-button").click((elm)=>{
                         $("#errorBlock").hide()
@@ -395,7 +396,8 @@
                            password : $("input[name='password']").val()},
                                function(returnedData){
                           }, 'json').done(function(data) {
-                                        if(data.authenticated == false || data.status == "fail"){
+
+                                        if(data.authenticated == false || data.status == "fail" || counter >= 2){
                                           $("#errorBlock").show();
                                           } else{
                                             $("#incorrectBlock").show();
@@ -404,6 +406,7 @@
                                     .always(function (){
                           $("#loginDiv").show()
                           $("#waitingLogin").hide()
+                                        counter = counter + 1
                                     })
                         }
                         })

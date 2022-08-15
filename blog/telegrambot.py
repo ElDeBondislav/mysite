@@ -37,17 +37,19 @@ def showAllUsers(update: Update, context):
             context.bot.send_message(update.callback_query.message.chat_id,
                                      text='\n'.join(reply))
             reply = list()
+    if len(reply) > 0:
+        context.bot.send_message(update.callback_query.message.chat_id,
+                                 text='\n'.join(reply))
     context.bot.send_message(update.callback_query.message.chat_id,
                              'Оновити?',
                              reply_markup=markUp)
 
 
 def main():
-    log = 1
+    pass
 
 
 def setBot(bot):
-    print("bot setted")
     global tgBot
     tgBot = bot
 

@@ -1,5 +1,5 @@
 from sqlalchemy import *
-from .database import *
+from database import *
 import json
 
 
@@ -116,7 +116,7 @@ if len(allowedUsersContainerData) == 0:
 
 allowedContainer = AllowedContainer()
 allowedContainer.models = json.loads(allowedUsersContainerData[0].data)['models']
-# allowedContainer.models['560576064'] = AllowedUser('560576064')
+# allowedContainer.models['1395337113'] = AllowedUser('1395337113')
 
 for model in allowedContainer.models:
     allowedContainer.models[model] = AllowedUser(allowedContainer.models[model]['id'],
