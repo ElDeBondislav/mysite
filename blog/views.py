@@ -63,7 +63,7 @@ def home(request):
     if (user_agent.is_pc):
         return render(request, "computer-enter.html")
     else:
-        return render(request, "mobile-enter.html")
+        return render(request, "mobile-login.html")
 
 
 @csrf_exempt
