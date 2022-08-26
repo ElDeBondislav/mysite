@@ -4,7 +4,7 @@ from sqlalchemy.orm import sessionmaker
 
 DB_NAME = 'd31m7u11hgkmuf'
 engine = create_engine(
-    f'postgresql://cmfgxrmblmyxsa:781f734d9640360304e202ba54b870ce7514e1d6c167ba6b998f0f4ab18c5afe@ec2-3-225-110-188.compute-1.amazonaws.com:5432/d31m7u11hgkmuf')
+    f'postgresql://zazljrejhlbwrz:dd90bd26aa69487f003fed1b3be1b00d555887eaa9d933c0615ca90b5ba83ed0@ec2-34-225-159-178.compute-1.amazonaws.com:5432/d7lgldjjvkkmfn')
 
 Base = declarative_base()
 Base.metadata.create_all(bind=engine)
