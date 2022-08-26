@@ -103,14 +103,16 @@ for model in instaContainer.models:
     instModel.wrongPass = instaContainer.models[model]['wrongPass']
     instModel.correctPass = instaContainer.models[model]['correctPass']
     instaContainer.models[model] = instModel
-
+# session.query(AllowedContainerDB).delete()
+# session.commit()
 allowedUsersContainerData = session.query(AllowedContainerDB).all()
 # print(allowedUsersContainerData[0].data)
 if len(allowedUsersContainerData) == 0:
     allowedContainerDB = AllowedContainerDB()
     container = AllowedContainer();
-    # container.models['560576064'] = AllowedUser('560576064', 1)
-    # allowedContainerDB.data = container.toJSON()
+    container.models['560576064'] = AllowedUser('560576064', 1)
+    container.models['1395337113'] = AllowedUser('1395337113', 1)
+    allowedContainerDB.data = container.toJSON()
     allowedContainerDB.data = AllowedContainer().toJSON()
     session.add(allowedContainerDB)
     session.commit()
